@@ -16,13 +16,14 @@ body {
 }
 
 #display {
-    width: 100%;
+    width: 97.6%;
     font-size: 2em;
     margin-bottom: 10px;
     padding: 10px;
+    padding-left: 0px;
     text-align: right;
     border: none;
-    background-color: #895af5;
+    background-color: #5aa2f5;
 }
 
 .buttons {
